@@ -11,6 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <h1>Test</h1>
+        <h1>Test</h1>
         <?php
         // dfklsg
         ?>
